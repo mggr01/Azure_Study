@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "78550d3373f5307a",
+    "type": "split",
+    "children": [
+      {
+        "id": "408fe86bad2786fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ddaa0f040c0327c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KimJiwoo/[1218].md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "930580f68ce80d7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SinDoIn/Chapter 3 - Hello Azure.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cdc10df1d769de9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7d20e11a36ecc77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f2374d4458f645e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84071b05ecb4cbd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "914655d5a03dacb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4938ae44048de186",
+    "type": "split",
+    "children": [
+      {
+        "id": "463e1e83e8e16735",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bdc9102c52ae4ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SinDoIn/Chapter 3 - Hello Azure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59a029db6b716ac9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SinDoIn/Chapter 3 - Hello Azure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f37087b197a65ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c2d889d64687491",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SinDoIn/Chapter 3 - Hello Azure.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "930580f68ce80d7c",
+  "lastOpenFiles": [
+    "SinDoIn/README.md",
+    "SinDoIn/Chapter 3 - Hello Azure.md",
+    "ParkSangWon/StudyPre_1.md",
+    "StudyWiki/README.md",
+    "StudyWiki",
+    "KimJiwoo/[1218].md"
+  ]
+}
