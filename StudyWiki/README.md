@@ -2,7 +2,7 @@
 제목/형식 엄격 준수
 **<br> 형식: 스터디n회차(주제 요약)-(이름)(월_일).pdf**
 
-## MMGR Archive
+## MGGR Archive
 |회차|날짜|발표자|주제|자료|
 |---|---|---|---|---|
 |1회차|23.12.17|박상원|3장 Hello Azure|[Link](https://github.com/mggr01/Azure_Study/blob/main/StudyWiki/%EC%8A%A4%ED%84%B0%EB%94%941%ED%9A%8C%EC%B0%A8(%EB%A6%AC%EC%86%8C%EC%8A%A4%EC%99%80%20%EB%A6%AC%EC%86%8C%EC%8A%A4%EA%B7%B8%EB%A3%B9)-%EB%B0%95%EC%83%81%EC%9B%90(12_17).pdf)|
